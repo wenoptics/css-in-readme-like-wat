@@ -4,9 +4,14 @@
 		<img src="header.svg" width="800" height="400" alt="Click to see the source">
 	</a>
 	<br>
+
+
+<img src="scrollbar.svg" width="800" height="400">
+
+<img src="anim-attr.svg" width="800" height="400">
+
+
 </div>
-
-
 
 <br>
 <br>
