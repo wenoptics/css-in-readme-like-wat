@@ -24,9 +24,10 @@
       </style>
 
       <div class="rect">
-        <div class="text">Dark mode:<div>
+        <span class="text">Dark mode:</span>
       </div>   
     </div>
+
   </foreignObject>
 
   
