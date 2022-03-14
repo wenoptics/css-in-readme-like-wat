@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="auto-dark-xhtml.svg">
+<img src="auto-dark.svg">
 
 <br>
 <img src="header.svg" width="800" height="400" alt="Click to see the source">
