@@ -1,5 +1,6 @@
 <svg fill="none" viewBox="0 0 200 200" width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject x="0" y="0" width="100%" height="100%">
+	 
+  <foreignObject x="0" y="0" width="100%" height="100%">
 
 		<div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -12,9 +13,8 @@
         left: 0
       }
       </style>
-      <img src="https://github.com/wenoptics/css-in-readme-like-wat/blob/main/test.gif?raw=true"/>
+      <img src="https://github.com/wenoptics/css-in-readme-like-wat/blob/main/test.gif?raw=true"></img>
     </div>
   </foreignObject>
 
-  
 </svg>
