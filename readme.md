@@ -9,6 +9,8 @@
 
 <img src="load_gif.svg" width="200" height="200">
 
+<img src="image_tag.svg" width="200" height="200">
+
 <img src="scrollbar.svg" width="800" height="400">
 
 <img src="anim-attr.svg" width="800" height="400">
